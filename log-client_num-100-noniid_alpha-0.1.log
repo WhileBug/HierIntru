@@ -1,0 +1,24 @@
+INFO: Using device cuda
+INFO: Starting training for client 0 in epoch 1
+INFO: Client 0 Validation loss: 0.005676696344692589, Validation accuracy: 0.9493408203125
+INFO: Starting training for client 1 in epoch 1
+INFO: Client 1 Validation loss: 326.1894804239273, Validation accuracy: 0.701171875
+INFO: Starting training for client 2 in epoch 1
+INFO: Client 2 Validation loss: 0.0, Validation accuracy: 0.76123046875
+INFO: Starting training for client 3 in epoch 1
+INFO: Client 3 Validation loss: 0.0, Validation accuracy: 0.915625
+INFO: Starting training for client 4 in epoch 1
+INFO: Client 4 Validation loss: 0.2642288048988208, Validation accuracy: 0.91162109375
+INFO: Starting training for client 5 in epoch 1
+INFO: Client 5 Validation loss: 0.730802008882165, Validation accuracy: 0.98046875
+INFO: Starting training for client 6 in epoch 1
+INFO: Client 6 Validation loss: 0.14429661445319653, Validation accuracy: 0.12109375
+INFO: Starting training for client 7 in epoch 1
+INFO: Client 7 Validation loss: 0.0008631198989350053, Validation accuracy: 0.9793772977941176
+INFO: Starting training for client 8 in epoch 1
+INFO: Client 8 Validation loss: 0.000822582579318084, Validation accuracy: 0.9823069852941176
+INFO: Starting training for client 9 in epoch 1
+INFO: Client 9 Validation loss: 0.0, Validation accuracy: 0.9387555803571429
+INFO: Starting training for client 10 in epoch 1
+INFO: Client 10 Validation loss: 0.0, Validation accuracy: 0.029296875
+INFO: Starting training for client 11 in epoch 1

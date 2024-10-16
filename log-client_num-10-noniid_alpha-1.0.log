@@ -1,0 +1,321 @@
+INFO: Using device cuda
+INFO: Starting training for client 0 in epoch 1
+INFO: Client 0 Validation loss: 0.0187674226298903, Validation accuracy: 0.9963659067622951
+INFO: Starting training for client 1 in epoch 1
+INFO: Client 1 Validation loss: 0.005802829003906087, Validation accuracy: 0.9963045188848921
+INFO: Starting training for client 2 in epoch 1
+INFO: Client 2 Validation loss: 0.001023329197094879, Validation accuracy: 0.9956336388221154
+INFO: Starting training for client 3 in epoch 1
+INFO: Client 3 Validation loss: 1.1402529462159994, Validation accuracy: 0.9893733198924731
+INFO: Starting training for client 4 in epoch 1
+INFO: Client 4 Validation loss: 1.4495448044442465, Validation accuracy: 0.9902545103092784
+INFO: Starting training for client 5 in epoch 1
+INFO: Client 5 Validation loss: 136.59717476222846, Validation accuracy: 0.9984130859375
+INFO: Starting training for client 6 in epoch 1
+INFO: Client 6 Validation loss: 0.008171485671331621, Validation accuracy: 0.9971946022727273
+INFO: Starting training for client 7 in epoch 1
+INFO: Client 7 Validation loss: 0.28129527718334907, Validation accuracy: 0.9932489809782609
+INFO: Starting training for client 8 in epoch 1
+INFO: Client 8 Validation loss: 0.00273307552364582, Validation accuracy: 0.9981448193215339
+INFO: Starting training for client 9 in epoch 1
+INFO: Client 9 Validation loss: 10.451111907679055, Validation accuracy: 0.9894649621212122
+INFO: Global model test loss after epoch 1: 0.6725606615984999, test accuracy: 0.9027556116144976
+INFO: Client 0 model test loss after epoch 1: 17.89542652818295, test accuracy: 0.9075145438632619
+INFO: Client 1 model test loss after epoch 1: 2.470753126886614, test accuracy: 0.9061566876029654
+INFO: Client 2 model test loss after epoch 1: 5.416935708817857, test accuracy: 0.8078826451812191
+INFO: Client 3 model test loss after epoch 1: 25.339740179532125, test accuracy: 0.6370051225288303
+INFO: Client 4 model test loss after epoch 1: 20.15383517285229, test accuracy: 0.6264029036243822
+INFO: Client 5 model test loss after epoch 1: 2.042300084342627, test accuracy: 0.8559160059719935
+INFO: Client 6 model test loss after epoch 1: 286.51058948974986, test accuracy: 0.3859143327841845
+INFO: Client 7 model test loss after epoch 1: 20.313777484153093, test accuracy: 0.9092874794069192
+INFO: Client 8 model test loss after epoch 1: 37.45583431767293, test accuracy: 0.8438047003706755
+INFO: Client 9 model test loss after epoch 1: 3.22308940046044, test accuracy: 0.9093100030889621
+INFO: Global model checkpoint for epoch 1 saved!
+INFO: Starting training for client 0 in epoch 2
+INFO: Client 0 Validation loss: 0.008904989942657565, Validation accuracy: 0.9962538422131147
+INFO: Starting training for client 1 in epoch 2
+INFO: Client 1 Validation loss: 0.003920131605997588, Validation accuracy: 0.9958197504496403
+INFO: Starting training for client 2 in epoch 2
+INFO: Client 2 Validation loss: 0.0009450481304436234, Validation accuracy: 0.9956618088942307
+INFO: Starting training for client 3 in epoch 2
+INFO: Client 3 Validation loss: 0.004405489536091859, Validation accuracy: 0.9900243615591398
+INFO: Starting training for client 4 in epoch 2
+INFO: Client 4 Validation loss: 0.34776513711376633, Validation accuracy: 0.9899927512886598
+INFO: Starting training for client 5 in epoch 2
+INFO: Client 5 Validation loss: 0.0013086895564714254, Validation accuracy: 0.9984758649553571
+INFO: Starting training for client 6 in epoch 2
+INFO: Client 6 Validation loss: 0.006466094216028234, Validation accuracy: 0.9971058238636363
+INFO: Starting training for client 7 in epoch 2
+INFO: Client 7 Validation loss: 0.010829951840566102, Validation accuracy: 0.9931216032608695
+INFO: Starting training for client 8 in epoch 2
+INFO: Client 8 Validation loss: 0.0016473280084863418, Validation accuracy: 0.9982370022123894
+INFO: Starting training for client 9 in epoch 2
+INFO: Client 9 Validation loss: 0.08912038844741663, Validation accuracy: 0.9914180871212122
+INFO: Global model test loss after epoch 2: 0.7455850366033069, test accuracy: 0.9054359297775947
+INFO: Client 0 model test loss after epoch 2: 1.6520966418665353, test accuracy: 0.9168908309308073
+INFO: Client 1 model test loss after epoch 2: 3.1651446186472576, test accuracy: 0.9085088035420099
+INFO: Client 2 model test loss after epoch 2: 3.8455944529705066, test accuracy: 0.8983184462520593
+INFO: Client 3 model test loss after epoch 2: 28.23722141167576, test accuracy: 0.781973975494234
+INFO: Client 4 model test loss after epoch 2: 15.363142295336145, test accuracy: 0.449894460461285
+INFO: Client 5 model test loss after epoch 2: 1.9372302072221308, test accuracy: 0.9172351214991763
+INFO: Client 6 model test loss after epoch 2: 48.46156976967513, test accuracy: 0.3838099773476112
+INFO: Client 7 model test loss after epoch 2: 11.035282747081315, test accuracy: 0.9099664075370676
+INFO: Client 8 model test loss after epoch 2: 28.76028592590851, test accuracy: 0.8033553850906096
+INFO: Client 9 model test loss after epoch 2: 4.583202433665899, test accuracy: 0.9069031867792422
+INFO: Global model checkpoint for epoch 2 saved!
+INFO: Starting training for client 0 in epoch 3
+INFO: Client 0 Validation loss: 0.005849176833195446, Validation accuracy: 0.9970543032786885
+INFO: Starting training for client 1 in epoch 3
+INFO: Client 1 Validation loss: 0.003943154287172449, Validation accuracy: 0.996564467176259
+INFO: Starting training for client 2 in epoch 3
+INFO: Client 2 Validation loss: 0.0164642797347115, Validation accuracy: 0.9956430288461539
+INFO: Starting training for client 3 in epoch 3
+INFO: Client 3 Validation loss: 0.005623359991749987, Validation accuracy: 0.9894363239247311
+INFO: Starting training for client 4 in epoch 3
+INFO: Client 4 Validation loss: 0.006487638123365559, Validation accuracy: 0.9904155927835051
+INFO: Starting training for client 5 in epoch 3
+INFO: Client 5 Validation loss: 479.3432841629431, Validation accuracy: 0.9984200613839286
+INFO: Starting training for client 6 in epoch 3
+INFO: Client 6 Validation loss: 0.018099542043108322, Validation accuracy: 0.99609375
+INFO: Starting training for client 7 in epoch 3
+INFO: Client 7 Validation loss: 0.009159827140375337, Validation accuracy: 0.9940132472826086
+INFO: Starting training for client 8 in epoch 3
+INFO: Client 8 Validation loss: 0.0014111944495648772, Validation accuracy: 0.9983176622418879
+INFO: Starting training for client 9 in epoch 3
+INFO: Client 9 Validation loss: 0.011439098937141049, Validation accuracy: 0.9912109375
+INFO: Global model test loss after epoch 3: 0.4255027947688651, test accuracy: 0.9069932815074135
+INFO: Client 0 model test loss after epoch 3: 1.4024152811686688, test accuracy: 0.8906056939868204
+INFO: Client 1 model test loss after epoch 3: 2.9297424888774373, test accuracy: 0.9137117740939045
+INFO: Client 2 model test loss after epoch 3: 3.674694269201048, test accuracy: 0.9090107598846787
+INFO: Client 3 model test loss after epoch 3: 21.96841851916446, test accuracy: 0.7478699032125206
+INFO: Client 4 model test loss after epoch 3: 13.023605987751537, test accuracy: 0.4503996344728171
+INFO: Client 5 model test loss after epoch 3: 3.235751417758024, test accuracy: 0.8411629942339374
+INFO: Client 6 model test loss after epoch 3: 52.8609347810341, test accuracy: 0.38510991556836904
+INFO: Client 7 model test loss after epoch 3: 5.955427128712188, test accuracy: 0.9133803542009885
+INFO: Client 8 model test loss after epoch 3: 17.669636225021794, test accuracy: 0.8237039229818781
+INFO: Client 9 model test loss after epoch 3: 3.342342365077252, test accuracy: 0.9059990218286655
+INFO: Global model checkpoint for epoch 3 saved!
+INFO: Starting training for client 0 in epoch 4
+INFO: Client 0 Validation loss: 0.007875521837253227, Validation accuracy: 0.9964139344262295
+INFO: Starting training for client 1 in epoch 4
+INFO: Client 1 Validation loss: 0.0047341026643676195, Validation accuracy: 0.9964028776978417
+INFO: Starting training for client 2 in epoch 4
+INFO: Client 2 Validation loss: 0.0013659823260663455, Validation accuracy: 0.9953519381009616
+INFO: Starting training for client 3 in epoch 4
+INFO: Client 3 Validation loss: 0.00753688625501345, Validation accuracy: 0.9898983534946236
+INFO: Starting training for client 4 in epoch 4
+INFO: Client 4 Validation loss: 0.8973819080386879, Validation accuracy: 0.9901538337628866
+INFO: Starting training for client 5 in epoch 4
+INFO: Client 5 Validation loss: 0.002101339566162557, Validation accuracy: 0.9984061104910714
+INFO: Starting training for client 6 in epoch 4
+INFO: Client 6 Validation loss: 0.021426709688857282, Validation accuracy: 0.9982421875
+INFO: Starting training for client 7 in epoch 4
+INFO: Client 7 Validation loss: 0.005461622470865341, Validation accuracy: 0.9939283288043478
+INFO: Starting training for client 8 in epoch 4
+INFO: Client 8 Validation loss: 0.0016264517031326568, Validation accuracy: 0.9983003779498525
+INFO: Starting training for client 9 in epoch 4
+INFO: Client 9 Validation loss: 6.939751378204881, Validation accuracy: 0.9922170928030303
+INFO: Global model test loss after epoch 4: 0.46581622105639003, test accuracy: 0.9120224979406919
+INFO: Client 0 model test loss after epoch 4: 2.052857234803751, test accuracy: 0.874729715815486
+INFO: Client 1 model test loss after epoch 4: 4.6026404751288075, test accuracy: 0.9058156147034596
+INFO: Client 2 model test loss after epoch 4: 1.9872594477274428, test accuracy: 0.9058896210873146
+INFO: Client 3 model test loss after epoch 4: 35.528678325084975, test accuracy: 0.6227637201400329
+INFO: Client 4 model test loss after epoch 4: 21.855162335006476, test accuracy: 0.4486395696046129
+INFO: Client 5 model test loss after epoch 4: 6.664280880000118, test accuracy: 0.6107843389621087
+INFO: Client 6 model test loss after epoch 4: 155.51969555420425, test accuracy: 0.35171051276771004
+INFO: Client 7 model test loss after epoch 4: 10.738074619804568, test accuracy: 0.9109156198517299
+INFO: Client 8 model test loss after epoch 4: 32.42958901412756, test accuracy: 0.8833723743822076
+INFO: Client 9 model test loss after epoch 4: 3.137141707820678, test accuracy: 0.9049693677924218
+INFO: Global model checkpoint for epoch 4 saved!
+INFO: Starting training for client 0 in epoch 5
+INFO: Client 0 Validation loss: 0.015311462668283177, Validation accuracy: 0.9971343493852459
+INFO: Starting training for client 1 in epoch 5
+INFO: Client 1 Validation loss: 0.004492661224444534, Validation accuracy: 0.9963958520683454
+INFO: Starting training for client 2 in epoch 5
+INFO: Client 2 Validation loss: 0.0006644243203243513, Validation accuracy: 0.9956336388221154
+INFO: Starting training for client 3 in epoch 5
+INFO: Client 3 Validation loss: 0.0016187519443236098, Validation accuracy: 0.9901083669354839
+INFO: Starting training for client 4 in epoch 5
+INFO: Client 4 Validation loss: 0.006089534297721049, Validation accuracy: 0.9906169458762887
+INFO: Starting training for client 5 in epoch 5
+INFO: Client 5 Validation loss: 0.0015972398006038953, Validation accuracy: 0.9983991350446428
+INFO: Starting training for client 6 in epoch 5
+INFO: Client 6 Validation loss: 0.013409327027476986, Validation accuracy: 0.9983309659090909
+INFO: Starting training for client 7 in epoch 5
+INFO: Client 7 Validation loss: 0.004713960386326384, Validation accuracy: 0.9940981657608695
+INFO: Starting training for client 8 in epoch 5
+INFO: Client 8 Validation loss: 0.005766733447927139, Validation accuracy: 0.9982830936578171
+INFO: Starting training for client 9 in epoch 5
+INFO: Client 9 Validation loss: 0.013645857806033857, Validation accuracy: 0.9922762784090909
+INFO: Global model test loss after epoch 5: 0.6494919849836245, test accuracy: 0.8277967977759473
+INFO: Client 0 model test loss after epoch 5: 6.867582007055778, test accuracy: 0.8654113467874794
+INFO: Client 1 model test loss after epoch 5: 2.8116773251760137, test accuracy: 0.9111569450164745
+INFO: Client 2 model test loss after epoch 5: 4.293944877790924, test accuracy: 0.9038817957166392
+INFO: Client 3 model test loss after epoch 5: 21.553736718972868, test accuracy: 0.7794255817545305
+INFO: Client 4 model test loss after epoch 5: 9.822138695921025, test accuracy: 0.6261068780889621
+INFO: Client 5 model test loss after epoch 5: 1.7730313491688452, test accuracy: 0.8025123558484349
+INFO: Client 6 model test loss after epoch 5: 340.86075576898395, test accuracy: 0.3386017298187809
+INFO: Client 7 model test loss after epoch 5: 2.2604732504558185, test accuracy: 0.9116846427100495
+INFO: Client 8 model test loss after epoch 5: 9.735948640343834, test accuracy: 0.8040439662273476
+INFO: Client 9 model test loss after epoch 5: 2.8929671121862355, test accuracy: 0.9065009781713345
+INFO: Global model checkpoint for epoch 5 saved!
+INFO: Starting training for client 0 in epoch 6
+INFO: Client 0 Validation loss: 0.0026539861097735627, Validation accuracy: 0.9975986168032787
+INFO: Starting training for client 1 in epoch 6
+INFO: Client 1 Validation loss: 0.44619817106273385, Validation accuracy: 0.9964871852517986
+INFO: Starting training for client 2 in epoch 6
+INFO: Client 2 Validation loss: 0.02637322870056403, Validation accuracy: 0.9955209585336539
+INFO: Starting training for client 3 in epoch 6
+INFO: Client 3 Validation loss: 0.0034849180261067626, Validation accuracy: 0.9902973790322581
+INFO: Starting training for client 4 in epoch 6
+INFO: Client 4 Validation loss: 0.006909036217661028, Validation accuracy: 0.990234375
+INFO: Starting training for client 5 in epoch 6
+INFO: Client 5 Validation loss: 0.0013044203576968068, Validation accuracy: 0.9985037667410714
+INFO: Starting training for client 6 in epoch 6
+INFO: Client 6 Validation loss: 0.000658321243863372, Validation accuracy: 0.9983309659090909
+INFO: Starting training for client 7 in epoch 6
+INFO: Client 7 Validation loss: 0.009905321413419228, Validation accuracy: 0.9936311141304348
+INFO: Starting training for client 8 in epoch 6
+INFO: Client 8 Validation loss: 0.004354534231489431, Validation accuracy: 0.9982715707964602
+INFO: Starting training for client 9 in epoch 6
+INFO: Client 9 Validation loss: 0.007180668707323176, Validation accuracy: 0.9924242424242424
+INFO: Global model test loss after epoch 6: 0.3409576195809065, test accuracy: 0.9124665362438221
+INFO: Client 0 model test loss after epoch 6: 1.2202002146490856, test accuracy: 0.8735681373558485
+INFO: Client 1 model test loss after epoch 6: 2.7955050622841733, test accuracy: 0.9113403521416804
+INFO: Client 2 model test loss after epoch 6: 4.09622853914683, test accuracy: 0.910561676276771
+INFO: Client 3 model test loss after epoch 6: 19.524289345536527, test accuracy: 0.8971279087726524
+INFO: Client 4 model test loss after epoch 6: 12.13943641159869, test accuracy: 0.6271204437808896
+INFO: Client 5 model test loss after epoch 6: 20.73008078007921, test accuracy: 0.64212443369028
+INFO: Client 6 model test loss after epoch 6: 214.8143305623704, test accuracy: 0.2594792524711697
+INFO: Client 7 model test loss after epoch 6: 12.496018479572989, test accuracy: 0.8969670253294892
+INFO: Client 8 model test loss after epoch 6: 152.35610086100476, test accuracy: 0.8035420098846787
+INFO: Client 9 model test loss after epoch 6: 2.911911460636373, test accuracy: 0.9092649557248764
+INFO: Global model checkpoint for epoch 6 saved!
+INFO: Starting training for client 0 in epoch 7
+INFO: Client 0 Validation loss: 17.220280697828017, Validation accuracy: 0.9971343493852459
+INFO: Starting training for client 1 in epoch 7
+INFO: Client 1 Validation loss: 0.002293605796119931, Validation accuracy: 0.9963677495503597
+INFO: Starting training for client 2 in epoch 7
+INFO: Client 2 Validation loss: 0.0022417421416564896, Validation accuracy: 0.9955585186298077
+INFO: Starting training for client 3 in epoch 7
+INFO: Client 3 Validation loss: 0.0011211876386932656, Validation accuracy: 0.9904863911290323
+INFO: Starting training for client 4 in epoch 7
+INFO: Client 4 Validation loss: 0.004155415375777971, Validation accuracy: 0.990576675257732
+INFO: Starting training for client 5 in epoch 7
+INFO: Client 5 Validation loss: 0.0013544501777041822, Validation accuracy: 0.9985909598214285
+INFO: Starting training for client 6 in epoch 7
+INFO: Client 6 Validation loss: 0.00043304515072370783, Validation accuracy: 0.9983842329545455
+INFO: Starting training for client 7 in epoch 7
+INFO: Client 7 Validation loss: 0.02465556130917558, Validation accuracy: 0.9943529211956522
+INFO: Starting training for client 8 in epoch 7
+INFO: Client 8 Validation loss: 0.0012259792996651665, Validation accuracy: 0.9983407079646017
+INFO: Starting training for client 9 in epoch 7
+INFO: Client 9 Validation loss: 0.00968077851002542, Validation accuracy: 0.9924538352272727
+INFO: Global model test loss after epoch 7: 0.4773409209974648, test accuracy: 0.88521931630972
+INFO: Client 0 model test loss after epoch 7: 8.862418319209706, test accuracy: 0.8622451606260296
+INFO: Client 1 model test loss after epoch 7: 2.5986455290769506, test accuracy: 0.909628552306425
+INFO: Client 2 model test loss after epoch 7: 3.9807415123676733, test accuracy: 0.9062821766886326
+INFO: Client 3 model test loss after epoch 7: 9.58693944222619, test accuracy: 0.9079778881795717
+INFO: Client 4 model test loss after epoch 7: 12.554741720144925, test accuracy: 0.6241988004530478
+INFO: Client 5 model test loss after epoch 7: 2.524028931084494, test accuracy: 0.7868262201400329
+INFO: Client 6 model test loss after epoch 7: 194.84519583654202, test accuracy: 0.259569347199341
+INFO: Client 7 model test loss after epoch 7: 12.20009814078124, test accuracy: 0.8990681630971994
+INFO: Client 8 model test loss after epoch 7: 11.29121916709853, test accuracy: 0.8039924835255354
+INFO: Client 9 model test loss after epoch 7: 2.519501667296322, test accuracy: 0.9121222456754531
+INFO: Global model checkpoint for epoch 7 saved!
+INFO: Starting training for client 0 in epoch 8
+INFO: Client 0 Validation loss: 0.00635001556168122, Validation accuracy: 0.9974865522540983
+INFO: Starting training for client 1 in epoch 8
+INFO: Client 1 Validation loss: 0.0010479749883792416, Validation accuracy: 0.9966206722122302
+INFO: Starting training for client 2 in epoch 8
+INFO: Client 2 Validation loss: 0.0010388379928042717, Validation accuracy: 0.9955397385817307
+INFO: Starting training for client 3 in epoch 8
+INFO: Client 3 Validation loss: 0.001891290246742323, Validation accuracy: 0.990276377688172
+INFO: Starting training for client 4 in epoch 8
+INFO: Client 4 Validation loss: 0.004142548422219688, Validation accuracy: 0.9907578930412371
+INFO: Starting training for client 5 in epoch 8
+INFO: Client 5 Validation loss: 0.05813331128364022, Validation accuracy: 0.9985979352678571
+INFO: Starting training for client 6 in epoch 8
+INFO: Client 6 Validation loss: 0.002677555220612039, Validation accuracy: 0.9981889204545454
+INFO: Starting training for client 7 in epoch 8
+INFO: Client 7 Validation loss: 0.0030576337045678647, Validation accuracy: 0.9943529211956522
+INFO: Starting training for client 8 in epoch 8
+INFO: Client 8 Validation loss: 0.03151837916788889, Validation accuracy: 0.9982888550884956
+INFO: Starting training for client 9 in epoch 8
+INFO: Client 9 Validation loss: 0.10252540076851002, Validation accuracy: 0.9921283143939394
+INFO: Global model test loss after epoch 8: 0.7452709574353711, test accuracy: 0.7503185492174629
+INFO: Client 0 model test loss after epoch 8: 1.9083341120962258, test accuracy: 0.860456136738056
+INFO: Client 1 model test loss after epoch 8: 2.862375548359837, test accuracy: 0.9235417524711697
+INFO: Client 2 model test loss after epoch 8: 3.603232285182548, test accuracy: 0.9100275432454695
+INFO: Client 3 model test loss after epoch 8: 44.69489086139507, test accuracy: 0.550510965815486
+INFO: Client 4 model test loss after epoch 8: 10.014447285038836, test accuracy: 0.6246428387561779
+INFO: Client 5 model test loss after epoch 8: 6.345446789899566, test accuracy: 0.7909223126029654
+INFO: Client 6 model test loss after epoch 8: 125.6660854205785, test accuracy: 0.25996512046952225
+INFO: Client 7 model test loss after epoch 8: 29.310899942334704, test accuracy: 0.8045427049011532
+INFO: Client 8 model test loss after epoch 8: 8.217475687059116, test accuracy: 0.9064108834431631
+INFO: Client 9 model test loss after epoch 8: 4.688407030534019, test accuracy: 0.9073697487644151
+INFO: Global model checkpoint for epoch 8 saved!
+INFO: Starting training for client 0 in epoch 9
+INFO: Client 0 Validation loss: 0.0017747501109038723, Validation accuracy: 0.9976306352459017
+INFO: Starting training for client 1 in epoch 9
+INFO: Client 1 Validation loss: 0.000876171974934143, Validation accuracy: 0.996669851618705
+INFO: Starting training for client 2 in epoch 9
+INFO: Client 2 Validation loss: 0.0012586917130497238, Validation accuracy: 0.9954458383413461
+INFO: Starting training for client 3 in epoch 9
+INFO: Client 3 Validation loss: 0.00290624915457253, Validation accuracy: 0.9898353494623656
+INFO: Starting training for client 4 in epoch 9
+INFO: Client 4 Validation loss: 0.004369609682440175, Validation accuracy: 0.9908384342783505
+INFO: Starting training for client 5 in epoch 9
+INFO: Client 5 Validation loss: 0.0011383186601001993, Validation accuracy: 0.9984340122767857
+INFO: Starting training for client 6 in epoch 9
+INFO: Client 6 Validation loss: 0.03490278369664656, Validation accuracy: 0.9983664772727273
+INFO: Starting training for client 7 in epoch 9
+INFO: Client 7 Validation loss: 0.005325365558923561, Validation accuracy: 0.9940132472826086
+INFO: Starting training for client 8 in epoch 9
+INFO: Client 8 Validation loss: 0.007813838228518862, Validation accuracy: 0.9981621036135693
+INFO: Starting training for client 9 in epoch 9
+INFO: Client 9 Validation loss: 0.032309215179373386, Validation accuracy: 0.9924538352272727
+INFO: Global model test loss after epoch 9: 0.48712776424530696, test accuracy: 0.8580107084019769
+INFO: Client 0 model test loss after epoch 9: 0.8899300104622663, test accuracy: 0.8930285986408567
+INFO: Client 1 model test loss after epoch 9: 2.547527344392238, test accuracy: 0.9219747477347611
+INFO: Client 2 model test loss after epoch 9: 3.352295380637302, test accuracy: 0.9099213601729819
+INFO: Client 3 model test loss after epoch 9: 7.279056404728612, test accuracy: 0.7527543245469522
+INFO: Client 4 model test loss after epoch 9: 13.30569384499058, test accuracy: 0.6276224001235585
+INFO: Client 5 model test loss after epoch 9: 4.421989873329783, test accuracy: 0.8101382310543658
+INFO: Client 6 model test loss after epoch 9: 333.745643251644, test accuracy: 0.27551611408566723
+INFO: Client 7 model test loss after epoch 9: 4.426243332633531, test accuracy: 0.8426592102553542
+INFO: Client 8 model test loss after epoch 9: 323.04903157783673, test accuracy: 0.8047068060131796
+INFO: Client 9 model test loss after epoch 9: 6.270897167737409, test accuracy: 0.9080261532125206
+INFO: Global model checkpoint for epoch 9 saved!
+INFO: Starting training for client 0 in epoch 10
+INFO: Client 0 Validation loss: 0.0018794751448430375, Validation accuracy: 0.997406506147541
+INFO: Starting training for client 1 in epoch 10
+INFO: Client 1 Validation loss: 0.0007713053500219107, Validation accuracy: 0.9966417491007195
+INFO: Starting training for client 2 in epoch 10
+INFO: Client 2 Validation loss: 0.0011707543286385643, Validation accuracy: 0.9954833984375
+INFO: Starting training for client 3 in epoch 10
+INFO: Client 3 Validation loss: 0.0029203704188550533, Validation accuracy: 0.990192372311828
+INFO: Starting training for client 4 in epoch 10
+INFO: Client 4 Validation loss: 0.003202088724145648, Validation accuracy: 0.991100193298969
+INFO: Starting training for client 5 in epoch 10
+INFO: Client 5 Validation loss: 0.0008550245863485636, Validation accuracy: 0.9985316685267858
+INFO: Starting training for client 6 in epoch 10
+INFO: Client 6 Validation loss: 0.0009320077434606136, Validation accuracy: 0.998348721590909
+INFO: Starting training for client 7 in epoch 10
+INFO: Client 7 Validation loss: 0.11412866748152402, Validation accuracy: 0.9933338994565217
+INFO: Starting training for client 8 in epoch 10
+INFO: Client 8 Validation loss: 0.0009249641510354772, Validation accuracy: 0.9982888550884956
+INFO: Starting training for client 9 in epoch 10
+INFO: Client 9 Validation loss: 0.008320094463787234, Validation accuracy: 0.9922762784090909
+INFO: Global model test loss after epoch 10: 0.5341254511677508, test accuracy: 0.7860185852553542
+INFO: Client 0 model test loss after epoch 10: 0.6763261477652968, test accuracy: 0.8792054932042833
+INFO: Client 1 model test loss after epoch 10: 3.0688546488386517, test accuracy: 0.920854998970346
+INFO: Client 2 model test loss after epoch 10: 5.138234500784823, test accuracy: 0.9099728428747941
+INFO: Client 3 model test loss after epoch 10: 34.32132421337194, test accuracy: 0.7816972559719935
+INFO: Client 4 model test loss after epoch 10: 15.874203178861327, test accuracy: 0.6274711696869851
+INFO: Client 5 model test loss after epoch 10: 3.8137850047780772, test accuracy: 0.789467926276771
+INFO: Client 6 model test loss after epoch 10: 78.85504075492577, test accuracy: 0.2577642349670511
+INFO: Client 7 model test loss after epoch 10: 5.952208783351771, test accuracy: 0.7851112026359144
+INFO: Client 8 model test loss after epoch 10: 26.90653797193818, test accuracy: 0.8055401822487644
+INFO: Client 9 model test loss after epoch 10: 7.932418679261903, test accuracy: 0.9085152388797364
+INFO: Global model checkpoint for epoch 10 saved!
